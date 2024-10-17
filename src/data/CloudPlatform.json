@@ -1,0 +1,19 @@
+{
+  "cloudPlatforms": [
+    {
+      "name": "AWS",
+      "provider": "Amazon",
+      "strengths": "Scalability & Global reach"
+    },
+    {
+      "name": "Azure",
+      "provider": "Microsoft",
+      "strengths": "Security & Integration"
+    },
+    {
+      "name": "GCP",
+      "provider": "Google",
+      "strengths": "Data management & Machine Learning"
+    }
+  ]
+}
